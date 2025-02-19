@@ -1,4 +1,8 @@
 # ok c'est parti
+je mets du code
+``` javascript
+var myVar = "Hello, world!";
+```
 ## mais bof bof
 ### c'est petit mini
 #### qpkdfpqio
