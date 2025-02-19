@@ -1,3 +1,7 @@
+# je rajoute une to do list
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
 # ok c'est parti
 je mets du code
 ``` javascript
