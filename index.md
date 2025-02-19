@@ -5,6 +5,8 @@
 ##### slmdkf
 ###### sdpfo
 # et ca recommence
+avec une image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ###### bla bla
 # pour conclure
 ###### y'en a marre
